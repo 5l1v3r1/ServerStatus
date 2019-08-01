@@ -14,9 +14,9 @@ PORT = 35601
 PASSWORD = "USER_DEFAULT_PASSWORD"
 INTERVAL = 1
 PORBEPORT = 80
-CU = "cu.tz.cloudcpp.com"
-CT = "ct.tz.cloudcpp.com"
-CM = "cm.tz.cloudcpp.com"
+CU = "unicom.mirrors.ustc.edu.cn"
+CT = "chinanet.mirrors.ustc.edu.cn"
+CM = "cmcc.mirrors.ustc.edu.cn"
 
 import socket
 import time
