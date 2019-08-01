@@ -14,9 +14,9 @@ PORT = 35601
 PASSWORD = "USER_DEFAULT_PASSWORD"
 INTERVAL = 1
 PORBEPORT = 80
-CU = "cu.tz.94ish.me"
-CT = "ct.tz.94ish.me"
-CM = "cm.tz.94ish.me"
+CU = "123.125.81.6"
+CT = "101.226.4.6"
+CM = "211.138.24.66"
 
 import socket
 import time
